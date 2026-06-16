@@ -1,4 +1,4 @@
-import InfiniteMovies from "../components/InfiniteMovies";
+import InfiniteMovies from "../../components/InfiniteMovies";
 
 export default function Home() {
   return (
