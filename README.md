@@ -7,7 +7,7 @@ Users can explore popular movies, search for titles, view detailed information, 
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-link.vercel.app
+🔗 https://cine-stream-next-3xi4.vercel.app/
 
 ---
 
